@@ -1,0 +1,13 @@
+/* my style */
+.image_upload_preview-size { width:300px; }
+.image_upload_preview-thumbnail { width:150px; }
+ul.image_upload_preview
+{
+        columns: 2;
+        -webkit-columns: 2;
+        -moz-columns: 2;
+
+}
+.c_lv_begin	:{background:rgb(180, 207, 236,0.3);border-top-right-radius:33px;border:1px solid Platinum;}
+.c_lv_end		:{background:rgb(180, 207, 236,0.3);border-bottom-left-radius:33px;border:1px solid Platinum;height:33px;}
+
